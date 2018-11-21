@@ -1,2 +1,1 @@
-# javascript-concept-examples
-JavaScript concept examples
+# JavaScript Concepts by Example
