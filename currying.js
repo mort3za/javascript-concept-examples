@@ -1,5 +1,5 @@
 // Simple sum
-function sum(x, y) {
+function sum (x, y) {
   return x + y
 }
 
@@ -12,5 +12,5 @@ function sum_with_currying(x) {
   }
 }
 
-console.log(sum(1, 2) // 3
+console.log(sum(1, 2)) // 3
 console.log(sum_with_currying(1)(2)) // 3
